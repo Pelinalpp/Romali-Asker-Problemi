@@ -1,0 +1,9 @@
+C:\Users\AlpPelin\Desktop\VS\RomaliAskerProblemi\RomaliAskerProblemi\bin\Debug\RomaliAskerProblemi.exe.config
+C:\Users\AlpPelin\Desktop\VS\RomaliAskerProblemi\RomaliAskerProblemi\bin\Debug\RomaliAskerProblemi.exe
+C:\Users\AlpPelin\Desktop\VS\RomaliAskerProblemi\RomaliAskerProblemi\bin\Debug\RomaliAskerProblemi.pdb
+C:\Users\AlpPelin\Desktop\VS\RomaliAskerProblemi\RomaliAskerProblemi\obj\Debug\RomaliAskerProblemi.csprojResolveAssemblyReference.cache
+C:\Users\AlpPelin\Desktop\VS\RomaliAskerProblemi\RomaliAskerProblemi\obj\Debug\RomaliAskerProblemi.frmRomaliAsker.resources
+C:\Users\AlpPelin\Desktop\VS\RomaliAskerProblemi\RomaliAskerProblemi\obj\Debug\RomaliAskerProblemi.Properties.Resources.resources
+C:\Users\AlpPelin\Desktop\VS\RomaliAskerProblemi\RomaliAskerProblemi\obj\Debug\RomaliAskerProblemi.csproj.GenerateResource.Cache
+C:\Users\AlpPelin\Desktop\VS\RomaliAskerProblemi\RomaliAskerProblemi\obj\Debug\RomaliAskerProblemi.exe
+C:\Users\AlpPelin\Desktop\VS\RomaliAskerProblemi\RomaliAskerProblemi\obj\Debug\RomaliAskerProblemi.pdb
